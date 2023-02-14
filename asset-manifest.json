@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/awesome_to_do_app/static/css/main.073c9b0a.css",
+    "main.js": "/awesome_to_do_app/static/js/main.b478f3a0.js",
+    "static/js/787.307ce7ff.chunk.js": "/awesome_to_do_app/static/js/787.307ce7ff.chunk.js",
+    "static/media/logo.svg": "/awesome_to_do_app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/awesome_to_do_app/index.html",
+    "main.073c9b0a.css.map": "/awesome_to_do_app/static/css/main.073c9b0a.css.map",
+    "main.b478f3a0.js.map": "/awesome_to_do_app/static/js/main.b478f3a0.js.map",
+    "787.307ce7ff.chunk.js.map": "/awesome_to_do_app/static/js/787.307ce7ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b478f3a0.js"
+  ]
+}
